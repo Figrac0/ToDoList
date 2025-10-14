@@ -64,4 +64,3 @@ todolist/
 │   │   └── no-projects.png
 │   └── main.jsx
 └── index.html
-
